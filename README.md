@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> HTML, CSS, Javascript는 기본기! react.js, vue.js, 심지어 jQuery
+> HTML, CSS, Javascript! react.js, vue.js, 심지어 jQuery
 
 ## 레포지토리 배포 리스트업
 - <a href="https://flourishing-pika-f18715.netlify.app/" target="_blank"> 스타벅스 클론코딩 </a>
