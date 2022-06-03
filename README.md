@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> HTML, CSS, Javascript! react.js, vue.js, 심지어 jQuery
+> HTML, CSS, Javascript! react.js, vue.js, 심지어 jQuery <br />
 > <a href="https://zippy-cupcake-a6fced.netlify.app/" target="_blank"> Designer v1 Portpolio</a>
 
 ## 레포지토리 배포 리스트업
