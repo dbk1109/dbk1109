@@ -10,4 +10,5 @@
   - <a href="https://nimble-valkyrie-6f4bb6.netlify.app/overwatch-hero-selector/index.html" target="_blank"> 오버워치 캐릭터 선택창 </a>
   - <a href="https://dbk1109.github.io/dbk1109/" target="_blank"> 2023 버킷리스트</a>
 - 기능 테스트/미니 프로젝트
-  - <a href="https://dbk-paint-old.netlify.app/" target="_blank"> VanilaJs로 그림판 만들기</a>
+  - <a href="https://dbk-paint-old.netlify.app/" target="_blank"> VanilaJs로 그림판 만들기_v01</a>
+  - <a href="https://dbk-paint.netlify.app/" target="_blank"> VanilaJs로 그림판 만들기_v02</a>
