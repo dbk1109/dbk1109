@@ -2,6 +2,7 @@
 
 > HTML, CSS, Javascript! react.js, vue.js, 예전엔 jQuery <br />
 > <a href="https://zippy-cupcake-a6fced.netlify.app/" target="_blank"> Designer v1</a>
+> <a href="http://dbkim.er.ro" target="_blank"> Designer v2</a>
 
 ## 레포지토리 배포 리스트업
 - 클론코딩
