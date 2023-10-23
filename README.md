@@ -12,4 +12,4 @@
   - <a href="https://dbk1109.github.io/dbk1109/" target="_blank"> 2023 Bucket List</a>
 - Functional tests/Mini-projects
   - <a href="https://dbk-paint-old.netlify.app/" target="_blank"> Creating a "Painting Board" with Vanilla Js_v01</a>
-  - <a href="https://dbk-paint.netlify.app/" target="_blank"> Creating a "Painting Board" with Vanilla Js_v02</a>
+  - <a href="https://dbk-paint.netlify.app/" target="_blank"> Creating a "Painting Board" with Vanilla Js_vFinal</a>
