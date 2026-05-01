@@ -2,7 +2,7 @@
 
 > HTML, CSS, Javascript! react.js, vue.js, I used jQuery before. <br />
 > <a href="https://zippy-cupcake-a6fced.netlify.app/" target="_blank"> Designer v1</a>
-> <a href="http://dbkim.er.ro" target="_blank"> Designer v2</a>
+> <a href="http://mywd.dothome.co.kr" target="_blank"> Designer v2</a>
 
 ## Repository distribution list up
 - Clone
